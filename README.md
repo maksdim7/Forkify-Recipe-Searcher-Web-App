@@ -1,6 +1,6 @@
 # 🍴 Forkify
 
-🚀 Live Demo: TODO link
+🚀 Live Demo: https://maks-forkify-v1.netlify.app/
 
 Forkify is a modern recipe web application that allows users to search for recipes, explore ingredients, and access step-by-step cooking instructions. The app also enables users to upload their own recipes, bookmark their favorites, and store them locally for future access.
 
