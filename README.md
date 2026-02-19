@@ -10,12 +10,19 @@ Forkify provides an intuitive and dynamic interface for discovering and managing
 This project was built using plain JavaScript, HTML, and CSS, without any frontend frameworks, focusing on core JavaScript concepts and modern development practices.
 
 ✨ Features
+
 🔍 Search Recipes – Search through a wide collection of recipes using keywords.
+
 🥕 View Ingredients – See all required ingredients for any selected recipe.
+
 👨‍🍳 Cooking Instructions – Follow the external link provided to prepare your chosen dish.
+
 ➕ Add Your Own Recipes – Upload custom recipes to the application.
+
 ⭐ User Recipe Indicator – Recipes added by you are marked with a special icon.
+
 🔖 Bookmark Recipes – Save favorite recipes to local storage.
+
 💾 Persistent Storage – Bookmarked recipes remain saved using localStorage.
 
 🛠️ Technologies Used
