@@ -4,7 +4,7 @@
 
 Forkify is a modern recipe web application that allows users to search for recipes, explore ingredients, and access step-by-step cooking instructions. The app also enables users to upload their own recipes, bookmark their favorites, and store them locally for future access.
 
-📌 Overview
+📌 Overview  
 Forkify provides an intuitive and dynamic interface for discovering and managing recipes. It integrates external recipe data through asynchronous API calls and allows users to interact with the application in a seamless and responsive way.
 
 This project was built using plain JavaScript, HTML, and CSS, without any frontend frameworks, focusing on core JavaScript concepts and modern development practices.
