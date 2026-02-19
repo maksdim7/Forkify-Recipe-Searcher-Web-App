@@ -34,8 +34,7 @@ MVC Architecture
 The application follows the Model-View-Controller (MVC) pattern:  
 Model – Handles application state and API communication.  
 View – Responsible for rendering UI components.  
-Controller – Connects the Model and View, managing application logic and event handling.
-
+Controller – Connects the Model and View, managing application logic and event handling.  
 Implementing MVC helped structure the project in a clean, maintainable, and scalable way.
 
 Modern JavaScript Features  
